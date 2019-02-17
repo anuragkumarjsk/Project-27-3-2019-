@@ -1,0 +1,17 @@
+hello fucker
+hello sucker
+total 56
+-rw-r--r-- 1 root root    0 Nov 23 20:46 error.txt
+-rw-r--r-- 1 root root   26 Nov 23 20:44 filos.txt
+-rw-r--r-- 1 root root  889 Nov 19 13:32 lisc.py
+-rw-r--r-- 1 root root  696 Nov 18 17:13 new 1.py
+-rw-r--r-- 1 root root  679 Nov 18 17:43 new1.py
+-rw-r--r-- 1 root root  674 Nov 18 09:01 new2.py
+-rw-r--r-- 1 root root  752 Nov 18 09:02 new3.py
+-rw-r--r-- 1 root root  830 Nov 19 12:45 retrynew2.py
+-rw-r--r-- 1 root root 5632 Nov 18 17:34 sample.xls
+-rw-r--r-- 1 root root  623 Nov 18 18:27 simple.py
+-rw-r--r-- 1 root root   50 Nov 18 17:43 some1.csv
+-rw-r--r-- 1 root root   30 Nov 19 13:29 some3.csv
+-rw-r--r-- 1 root root   27 Nov 19 12:34 trial
+-rw-r--r-- 1 root root   36 Nov 19 12:46 trial.csv
